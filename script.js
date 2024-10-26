@@ -33,7 +33,7 @@ function createHeartBurst() {
 // Mảng chứa danh sách các video trong album
 const videoList = [
   { title: "Trước khi gặp iem 👩🏻😋", src: "video1.mov" },
-  { title: "Khi là đang gặp nhau đó 🥰🫠", src: "video2.mp4" },
+  { title: "Khi là đang gặp nhau đó 🥰🫠", src: "video2.mov" },
   { title: "Rồi sau đó thì......🤕🤒", src: "video3.mov" },
   // Thêm các video khác vào đây
 ];
